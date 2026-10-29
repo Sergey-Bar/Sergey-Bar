@@ -4,7 +4,6 @@
 
 > I make software releases trustworthy. From the first test strategy to the final release gate — across defence, semiconductor metrology, and enterprise security.
 
-📌 **Open to:** QA Leadership · Product Management · Engineering Management
 
 ---
 
