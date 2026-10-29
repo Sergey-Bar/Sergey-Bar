@@ -4,6 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/sergeybar)
 [![Location](https://img.shields.io/badge/Israel-028477?style=for-the-badge&logo=location&logoColor=fff)](https://www.google.com/maps/place/Israel)
 
+[![GitHub streak](https://github-streak.herokuapp.com?user=Sergey-Bar)](https://github.com/Sergey-Bar)
+[![GitHub repos](https://img.shields.io/badge/repos-7-1b1f2e?style=flat-square&logo=github)](https://github.com/Sergey-Bar?tab=repositories)
+[![GitHub stars](https://img.shields.io/badge/stars-6-1b1f2e?style=flat-square&logo=github)](https://github.com/Sergey-Bar?tab=stars)
+[![npm downloads](https://img.shields.io/badge/mjolnir-6.5K-1b1f2e?style=flat-square&logo=npm)](https://www.npmjs.com/package/mjolnir-qa)
+
 ## 🎯 QA Tech Lead & AI Automation Engineer
 
 > I make software releases trustworthy. From the first test strategy to the final release gate — 7+ years across defence, semiconductor metrology, and enterprise security.
@@ -12,39 +17,58 @@
 
 ---
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  7+ years in QA  │  4 major releases  │  0 critical defects │
+│  2× built QA     │  40% stability ↑   │  20% faster triage  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🔥 Open Source Projects
 
 ### [Mjolnir](https://github.com/Sergey-Bar/Mjolnir) ⭐
+
 **Verification Trust Engine** · `v6.1.0` published · [npm](https://www.npmjs.com/package/mjolnir-qa)
 
-Your tests are lying to you. It proves it.
+> Your tests are lying to you. It proves it.
 
 An open-source static scanner that reads test suites and CI workflows, weighs every finding by the evidence behind it, and scores whether verification can be trusted. A green checkmark is not evidence, and the failure that costs the most is a pipeline that cannot go red at all.
 
 ```
-downloads (30d): 2,195  |  rules: 79  |  measured FP: 73/79  |  telemetry: none
+┌──────────────────────────────────────────────────────────────┐
+│  downloads (30d): 2,195  │  rules: 79  │  measured FP: 73/79  │
+│  telemetry: none  │  languages: 5  │  licence: MIT           │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ### [AutoMate](https://github.com/Sergey-Bar/AutoMate)
+
 **Self-hosted QA Control Plane**
 
-A run is a chain of evidence. The layer between test producers and the people who have to trust them. One canonical result model for Playwright, JUnit, k6, and OWASP ZAP — persisted run evidence, live updates, and quality-gate policies.
+> A run is a chain of evidence.
+
+The layer between test producers and the people who have to trust them. One canonical result model for Playwright, JUnit, k6, and OWASP ZAP — persisted run evidence, live updates, and quality-gate policies. Its capability register marks most of its own rows explicitly *not real*, so a summary table cannot round itself up.
 
 ```
-capability register: 42 rows  |  marked not real: 26  |  licence: MIT
+┌──────────────────────────────────────────────────────────────┐
+│  capability register: 42 rows  │  marked not real: 26        │
+│  licence: MIT  │  Node 24  │  pnpm 11  │  self-hosted         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 📊 Verified Outcomes
 
-| Metric | Result |
-|--------|--------|
-| Years in quality | 7+ |
-| Major releases shipped | 4 (zero critical defects) |
-| QA built from zero | 2× (first and only hire) |
-| Stability improvement | +40% |
-| Issue resolution speed | +20% |
+| Metric | Result | Context |
+|--------|--------|---------|
+| Years in quality | **7+** | Since 2015 |
+| Major releases shipped | **4** | Zero critical production defects |
+| QA built from zero | **2×** | First and only QA hire, twice |
+| Stability improvement | **+40%** | Memory leak root-caused with dotMemory/dotTrace |
+| Issue resolution speed | **+20%** | Optimised bug pipelines + cross-team triage |
 
 ---
 
@@ -72,13 +96,13 @@ Embedded · HW/SW · CI/CD · Computer Vision · ML Validation
 
 ## 📖 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| Senior QA Engineer | Israeli Air Force · Ofek 324 | 2025–Present |
-| QA Engineer | Nova Ltd. (Semiconductor Metrology) | 2025 |
-| QA Engineer → QA Tech Lead → Scrum Master | Teledyne FLIR | 2022–2025 |
-| QA Engineer (first & sole hire) | Enabley | 2021–2022 |
-| QC Analyst | HP Indigo | 2015–2017 |
+| Role | Company | Period | Sectors |
+|------|---------|--------|---------|
+| Senior QA Engineer | Israeli Air Force · Ofek 324 | 2025–Present | Defense |
+| QA Engineer | Nova Ltd. | 2025 | Semiconductor Metrology |
+| QA Engineer → QA Tech Lead → Scrum Master | Teledyne FLIR | 2022–2025 | Enterprise Security |
+| QA Engineer (first & sole hire) | Enabley | 2021–2022 | SaaS |
+| QC Analyst | HP Indigo | 2015–2017 | Industrial Printing |
 
 **Sectors:** Defense · Semiconductor Metrology · Enterprise Security · SaaS
 
@@ -94,17 +118,10 @@ Embedded · HW/SW · CI/CD · Computer Vision · ML Validation
 
 ## 🤝 Let's Connect
 
-- 💬 **LinkedIn:** [in/sergeybar](https://www.linkedin.com/in/sergeybar)
+- 💬 **LinkedIn:** [in/sergeybar](https://www.linkedin.com/in/sergeybar) — 14 recommendations
 - 🌐 **Portfolio:** [sergey-bar.github.io](https://sergey-bar.github.io/)
+- 📦 **npm:** [@mjolnir-qa](https://www.npmjs.com/package/mjolnir-qa)
 - 📧 **Open to:** QA Roles · Product Management · Project Management
-
----
-
-## ⚡ A little after-hours experiment
-
-An interactive stress-relief toy. Press `Escape` to return. **Don't press the red button.**
-
-Built with the same attention to quality I expect from software.
 
 ---
 
