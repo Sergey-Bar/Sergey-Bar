@@ -4,10 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/sergeybar)
 [![Location](https://img.shields.io/badge/Israel-028477?style=for-the-badge&logo=location&logoColor=fff)](https://www.google.com/maps/place/Israel)
 
-[![GitHub streak](https://github-streak.herokuapp.com?user=Sergey-Bar)](https://github.com/Sergey-Bar)
 [![GitHub repos](https://img.shields.io/badge/repos-7-1b1f2e?style=flat-square&logo=github)](https://github.com/Sergey-Bar?tab=repositories)
 [![GitHub stars](https://img.shields.io/badge/stars-6-1b1f2e?style=flat-square&logo=github)](https://github.com/Sergey-Bar?tab=stars)
 [![npm downloads](https://img.shields.io/badge/mjolnir-6.5K-1b1f2e?style=flat-square&logo=npm)](https://www.npmjs.com/package/mjolnir-qa)
+[![Account age](https://img.shields.io/badge/since-2021-1b1f2e?style=flat-square&logo=github)](https://github.com/Sergey-Bar)
 
 ## 🎯 QA Tech Lead & AI Automation Engineer
 
