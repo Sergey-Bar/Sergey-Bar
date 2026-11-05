@@ -10,7 +10,7 @@
 **Shipped:**
 
 - **[Mjolnir](https://github.com/Sergey-Bar/Mjolnir)** — Verification trust engine. Your tests are lying to it. ★ 1 · [npm](https://www.npmjs.com/package/mjolnir-qa) · 6.5K downloads · 79 rules · v6.1.0
-- **[AutoMate](https://github.com/Sergey-Bar/AutoMate)** — Self-hosted QA control plane. One home for Playwright, JUnit, k6, and ZAP results. Quality gates + flaky-test quarantine.
+- **[Lupin](https://github.com/Sergey-Bar/Lupin)** — Self-hosted QA control plane. One home for Playwright, JUnit, k6, and ZAP results. Quality gates + flaky-test quarantine.
 
 ---
 
