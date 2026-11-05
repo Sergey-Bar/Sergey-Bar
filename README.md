@@ -1,6 +1,6 @@
 # Sergey Bar
 
-**QA Tech Lead & AI Automation Engineer** · 7+ years · Israel
+**QA Tech Lead & AI Automation Engineer** · 5+ years · Israel
 
 > I make software releases trustworthy. From the first test strategy to the final release gate — across defence, semiconductor metrology, and enterprise security.
 
